@@ -8,6 +8,7 @@ packages = [{include = "django_form"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+django = "^4.2.1"
 
 
 [build-system]
